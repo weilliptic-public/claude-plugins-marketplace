@@ -13,10 +13,10 @@
       "source": {
         "source": "github",
         "repo": "weilliptic-public/claude-code-hooks",
-        "ref": "v0.2.2"
+        "ref": "v0.2.3"
       },
       "description": "Audit AI code changes on Weilchain. Records every file edit as a blockchain receipt.",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "author": { "name": "Weilliptic" },
       "homepage": "https://codensics.weilliptic.ai",
       "keywords": ["audit", "blockchain", "weilchain", "receipts", "ai-provenance"]
